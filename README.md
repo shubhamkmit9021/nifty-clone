@@ -1,9 +1,5 @@
-# nifty-clone
-
-## [Deployed link](https://niftypm-clone.netlify.app/)
-
-### [Blog](https://medium.com/@shubhamkmit9021/nifty-clone-d47aa302f490)
-
+# nifty-clone 
+## [Deployed link](https://niftypm-clone.netlify.app/)  ||    [Blog](https://medium.com/@shubhamkmit9021/nifty-clone-d47aa302f490)
 
 ## Task
 
@@ -16,23 +12,31 @@ I am a student of a Full Stack Web Development course offered by Masai School. D
 
 ## Landing Page
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662833370616/KFNq4_SUR.png" />
+<img src="https://miro.medium.com/max/640/1*x1zFaq_RKSz9o2_NWz_YXg.webp" />
 
 ## Middle Section
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662833535314/0yGLaNdAn.png"/>
+<img src="https://miro.medium.com/max/640/1*p3Ivd9hMTyltZz6htc7g4Q.webp"/>
+
+## Feedback Section
+
+<img src="https://miro.medium.com/max/640/1*SDLpAljeNpQVSPdIc0-6Eg.webp"/>
 
 ## Footer
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662833594271/Bwsnudcty.png"/>
-
-## Login
-
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662833696055/PrDlusHYN.png"/>
+<img src="https://miro.medium.com/max/640/1*T_tqcjCAKq7y7QYxrrFTyw.webp"/>
 
 ## Sign Up
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662833755056/ARHD9I5BX.png"/>
+<img src="https://miro.medium.com/max/640/1*_BLA8wzT-d4l7CJXjvzqSA.webp"/>
+
+## Login
+
+<img src="https://miro.medium.com/max/640/1*8T9r-jYhJQbjKyC1WzZClw.webp"/>
+
+## Dashboard
+
+<img src="https://miro.medium.com/max/640/1*oj4J3eKUcF4FE2_EyDTpiQ.webp"/>
 
 
 **IDE & TECH TOOL**
